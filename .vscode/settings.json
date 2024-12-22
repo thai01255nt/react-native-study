@@ -1,0 +1,5 @@
+{
+    "eslint.execArgv": null,
+    "eslint.useFlatConfig": true,
+    "eslint.debug": true
+}
